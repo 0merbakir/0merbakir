@@ -23,7 +23,7 @@ and ship <b>clean, production-ready systems</b>.
 
 ## 🧠 What I Do
 
-### 🌐 Web Engineering <sub>(Primary)</sub>
+### 🌐 Web Engineering <sub></sub>
 - Next.js / React applications
 - Performance-first & SEO-driven architectures
 - Dashboards, SaaS products, internal tools
@@ -34,7 +34,7 @@ and ship <b>clean, production-ready systems</b>.
 - Automation to eliminate repetitive workflows
 - OpenAI & custom LLM integrations
 
-### 📱 Mobile <sub>(Secondary)</sub>
+### 📱 Mobile <sub></sub>
 - Flutter apps as web companions
 - Clean architecture & shared business logic
 
