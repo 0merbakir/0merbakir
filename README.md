@@ -1,85 +1,120 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api
-      ?type=waving
-      &height=220
-      &text=Ömer%20Bakır
-      &fontSize=62
-      &fontColor=ffffff
-      &animation=fadeIn
-      &color=0:000000,40:020024,70:090979,100:1b1f3b"
-  />
-</p>
-
-
-<h3 align="center">
-🌐 Web Engineer · 🤖 AI Automation · 📱 Mobile (Flutter)
-</h3>
+<!-- ======================= -->
+<!-- 🚀 FUTURISTIC HEADER -->
+<!-- ======================= -->
 
 <p align="center">
-<b>Designing scalable web systems</b><br/>
-<b>Automating intelligence</b><br/>
-<b>Shipping clean, production-grade software</b>
+  <img src="https://capsule-render.vercel.app/api
+    ?type=waving
+    &height=190
+    &text=Ömer%20Bakır
+    &fontSize=55
+    &fontColor=ffffff
+    &color=0:000000,100:020024" />
 </p>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━
+  <img src="https://readme-typing-svg.demolab.com
+  ?font=Orbitron
+  &size=26
+  &pause=1200
+  &color=00E5FF
+  &center=true
+  &vCenter=true
+  &width=700
+  &lines=Web+Engineering+First;AI+Automation+Driven;Mobile+as+an+Extension;Building+Systems+That+Scale" />
 </p>
 
-## 🧠 SYSTEM OVERVIEW
+<p align="center">
+  <b>🌐 Web Engineer</b> · <b>🤖 AI Automation</b> · <b>📱 Mobile (Flutter)</b>
+</p>
 
-> I build **modern web applications** with a strong focus on  
-> **performance**, **automation**, and **scalability**.
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
-I don’t chase trends.  
-I engineer systems that **last**.
+<!-- ======================= -->
+<!-- 🧠 ABOUT -->
+<!-- ======================= -->
+
+## 🧠 SYSTEM PHILOSOPHY
+
+I design and build **web-first systems** focused on:
+
+- ⚡ Performance  
+- 🧩 Scalability  
+- 🤖 Automation  
+
+I don’t chase hype.  
+I build **clean architectures** that survive production.
 
 ---
+
+<!-- ======================= -->
+<!-- 🌐 WEB -->
+<!-- ======================= -->
 
 ## 🌐 WEB ENGINEERING (CORE)
 
-- ⚙️ Next.js / React based web platforms  
-- 🚀 SEO-friendly, high-performance architectures  
-- 📊 Dashboards, SaaS products, internal tools  
-- 🔌 API-first & modular system design  
+- ⚙️ Next.js / React based applications  
+- 🚀 SEO-friendly & high-performance setups  
+- 📊 Dashboards, SaaS platforms, internal tools  
+- 🔌 API-first & modular architectures  
 
-> Web is the backbone. Everything else extends from it.
+> Web is the backbone.  
+> Everything else connects to it.
 
 ---
 
-## 🤖 AI & AUTOMATION LAYER
+<!-- ======================= -->
+<!-- 🤖 AI -->
+<!-- ======================= -->
+
+## 🤖 AI & AUTOMATION
 
 - AI-powered web tools  
-- Automation pipelines that eliminate manual workflows  
+- Workflow automation pipelines  
 - Intelligent agents & integrations  
-- OpenAI-based and custom AI logic  
+- OpenAI-based & custom AI logic  
 
-> If a task is repetitive, it should be automated.
+> If a task is repetitive, it should not be human.
 
 ---
+
+<!-- ======================= -->
+<!-- 📱 MOBILE -->
+<!-- ======================= -->
 
 ## 📱 MOBILE EXTENSIONS
 
-- Flutter applications supporting web platforms  
+- Flutter apps supporting web products  
 - Shared logic & clean architecture  
-- Web-first products with mobile reach  
+- Web-first systems with mobile reach  
 
-> Mobile is not separate. It’s an extension.
+> Mobile is not separate.  
+> It’s an extension.
 
 ---
+
+<!-- ======================= -->
+<!-- 🛠️ STACK -->
+<!-- ======================= -->
 
 ## 🛠️ TECH STACK
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/AI%20Automation-black?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/AI%20Automation-000000?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter" />
 </p>
 
 ---
+
+<!-- ======================= -->
+<!-- 🚀 BUILD -->
+<!-- ======================= -->
 
 ## 🚀 WHAT I BUILD
 
@@ -90,11 +125,15 @@ I engineer systems that **last**.
 
 ---
 
+<!-- ======================= -->
+<!-- 🧭 STATUS -->
+<!-- ======================= -->
+
 ## 🧭 CURRENT MODE
 
 ```json
 {
-  "primary": "Web Engineering",
+  "primary_focus": "Web Engineering",
   "secondary": ["AI Automation", "Mobile (Flutter)"],
   "principles": ["Clean", "Scalable", "Useful"],
   "status": "Open to high-impact collaborations"
