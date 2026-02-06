@@ -1,48 +1,47 @@
-# ⚡ [SYSTEM_BOOT_INITIATED...]
+# 💜 [DECODING_THE_FUTURE...]
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=code&color=00ffea&height=200&section=header&text=USER_0MERBAKIR&fontSize=70&animation=fadeIn&fontAlignY=35&desc=CYBER_SPACE_ARCHITECT&descAlignY=60&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=6a0dad&height=200&section=header&text=0MERBAKIR&fontSize=80&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20MOBILE%20%7C%20WEB%20ARCHITECT&descAlignY=60&descSize=20" width="100%" />
 </p>
 
 ---
 
-### 🛰️ TRANSMISSION_RECEIVED
-> **"Kod yazmak bir tercih değil, bir hayatta kalma mekanizmasıdır."** > `Status: Overclocked` | `Location: Meta-Universe` | `Vibe: Cyber-Minimalist`
+### 🔮 THE_MANIFESTO
+> **"Turning coffee into complex algorithms and bugs into 'unintended features'."** > I don't just write code; I build digital dimensions. Whether it's a sleek Flutter app, a massive web ecosystem, or an AI that thinks it's human – if it's futuristic, I'm in.
 
 ---
 
-### 🌑 CORE_SYSTEM_SPECS (Tech Stack)
+### 🛠️ TECH_STATION (Capabilities)
 
-| MODULE | TECHNOLOGIES |
-| :--- | :--- |
-| **Frontend_Engines** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **Backend_Core** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) |
-| **Neural_Network** | ![TF](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
-| **Deployment_Grid** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| 🛸 CROSS-PLATFORM | 🧠 ARTIFICIAL INTELLIGENCE | 🌐 WEB ECOSYSTEM |
+| :--- | :--- | :--- |
+| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
 ---
 
-### 🧬 NEURAL_ACTIVITY (GitHub Stats)
+### ⚡ CURRENT_SESSIONS
+- 📱 **Mobile Mastery:** Crafting fluid UI/UX with **Flutter** that feels like 2077.
+- 🤖 **AI Automations:** Building agents that do the boring work while I play video games.
+- 🕸️ **Web Sorcery:** Developing high-performance apps with **Next.js** and **Node**.
+- 🛠️ **DevOps:** Orchestrating **Docker** containers in the dark.
+
+---
+
+### 📊 NEURAL_METRICS (System Stats)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0merbakir&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ffea&icon_color=00ffea&text_color=ffffff" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0merbakir&layout=compact&theme=tokyonight&hide_border=true&title_color=00ffea&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0merbakir&theme=tokyonight&area=true&hide_border=true&color=00ffea" width="100%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0merbakir&show_icons=true&theme=tokyonight&title_color=bf94ff&icon_color=bf94ff&text_color=ffffff&hide_border=true" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0merbakir&layout=compact&theme=tokyonight&title_color=bf94ff&text_color=ffffff&hide_border=true" />
 </p>
 
 ---
 
-### 📂 CLASSIFIED_PROJECTS
-- 🛸 **[REDACTED]:** Gizli bir yapay zeka çekirdeği geliştiriliyor.
-- ⚡ **Neural_Sync:** İnsan ve makine arayüzleri üzerine bir deney.
-- 🌌 **Void_Runner:** Python tabanlı otomasyon sistemleri.
-
----
-
-### 📞 ESTABLISH_COMMUNICATION
-```bash
-# Sosyal ağlara erişim protokolü başlatılıyor...
-$contact --service linkedin --user 0merbakir$ contact --service mail --user hello@0merbakir.dev
-$ contact --service discord --user cyber_path
+### 🕹️ FUN_FACTS (Log Output)
+```json
+{
+  "status": "Online",
+  "hobbies": ["Keyboard Customization", "Sci-Fi Movies", "Deep House Beats"],
+  "coffee_consumption": "Critical Levels",
+  "vision": "Automate everything, then automate the automation."
+}
