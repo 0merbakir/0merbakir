@@ -1,15 +1,16 @@
 <p align="center">
-  <img 
+  <img
     src="https://capsule-render.vercel.app/api
-      ?type=wave
-      &height=200
+      ?type=waving
+      &height=220
       &text=Ömer%20Bakır
-      &fontSize=60
+      &fontSize=62
       &fontColor=ffffff
       &animation=fadeIn
-      &color=0:000000,50:020024,100:090979"
+      &color=0:000000,40:020024,70:090979,100:1b1f3b"
   />
 </p>
+
 
 <h3 align="center">
 🌐 Web Engineer · 🤖 AI Automation · 📱 Mobile (Flutter)
