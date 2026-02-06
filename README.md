@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omerbakir&label=Profile%20Views&color=38bdf8&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=0merbkair&label=Profile%20Views&color=38bdf8&style=flat" alt="profile views" />
 </p>
 
 <h3 align="center">
@@ -34,9 +34,8 @@ and ship <b>clean, production-ready systems</b>.
 
 ### 🤖 AI & Automation
 - AI-powered web tools & agents  
-- Workflow automation (real business impact)  
+- Workflow automation with real business impact  
 - OpenAI & custom model integrations  
-- Data-driven systems  
 
 </td>
 </tr>
@@ -46,7 +45,7 @@ and ship <b>clean, production-ready systems</b>.
 
 ## 📱 Mobile Development
 - Flutter apps supporting web platforms  
-- Shared logic & clean architecture  
+- Clean architecture & shared logic  
 - Companion apps for SaaS products  
 
 ---
@@ -64,23 +63,15 @@ and ship <b>clean, production-ready systems</b>.
 
 ---
 
-## 🧠 What I Build
-- 🌍 Web platforms & SaaS products  
-- 🤖 AI-powered web applications  
-- ⚙️ Automation-first backend systems  
-- 📱 Companion mobile apps  
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=omerbakir&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=omerbakir&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=0merbkair&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=0merbkair&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerbakir&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0merbkair&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -94,3 +85,4 @@ and ship <b>clean, production-ready systems</b>.
   "mindset": "Clean. Scalable. Useful.",
   "availability": "Open to high-impact collaborations"
 }
+
