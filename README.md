@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:38bdf8&height=180&section=header&text=Ömer%20Bakır&fontSize=58&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:38bdf8&height=200&section=header&text=Ömer%20Bakır&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omerbakir&label=Profile%20Views&color=38bdf8&style=flat" alt="profile views" />
 </p>
 
 <h3 align="center">
@@ -8,47 +12,59 @@ Web Engineer · AI Automation · Mobile (Flutter)
 
 <p align="center">
 I build <b>scalable web applications</b>, integrate <b>AI-powered automation</b>,<br/>
-and ship clean, production-ready systems.
+and ship <b>clean, production-ready systems</b>.
 </p>
 
 ---
 
-## 🧠 What I Do
+## 🚀 Focus Areas
 
-### 🌐 Web Engineering (Primary)
-- Next.js / React web applications  
-- Performance-focused, SEO-friendly architectures  
-- Dashboards, SaaS frontends, internal tools  
-- API-driven systems  
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🌐 Web Engineering
+- Next.js / React applications  
+- SEO-first & performance-driven builds  
+- SaaS dashboards & internal tools  
+- API-centric architecture  
+
+</td>
+<td width="50%">
 
 ### 🤖 AI & Automation
 - AI-powered web tools & agents  
-- Workflow automation to reduce manual work  
-- OpenAI & custom AI integrations  
+- Workflow automation (real business impact)  
+- OpenAI & custom model integrations  
+- Data-driven systems  
 
-### 📱 Mobile (Secondary)
+</td>
+</tr>
+</table>
+
+---
+
+## 📱 Mobile Development
 - Flutter apps supporting web platforms  
-- Clean architecture & shared logic  
-
-> Less noise. More impact.
+- Shared logic & clean architecture  
+- Companion apps for SaaS products  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/AI%20Automation-black?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Next.js-0a2540?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-0a2540?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-0a2540?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-0a2540?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/AI%20Automation-0a2540?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-0a2540?style=for-the-badge&logo=flutter&logoColor=02569B" />
 </p>
 
 ---
 
-## 🚀 What I Build
-
+## 🧠 What I Build
 - 🌍 Web platforms & SaaS products  
 - 🤖 AI-powered web applications  
 - ⚙️ Automation-first backend systems  
@@ -56,12 +72,25 @@ and ship clean, production-ready systems.
 
 ---
 
-## 🧭 Current Focus
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=omerbakir&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=omerbakir&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerbakir&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧭 Current Status
 
 ```json
 {
   "primary": "Web Engineering",
   "secondary": ["AI Automation", "Mobile (Flutter)"],
-  "mindset": "Clean, scalable, useful",
-  "status": "Open to high-impact collaborations"
+  "mindset": "Clean. Scalable. Useful.",
+  "availability": "Open to high-impact collaborations"
 }
