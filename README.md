@@ -7,34 +7,35 @@ Web Engineer · AI Automation · Mobile (Flutter)
 </h3>
 
 <p align="center">
-I build <b>scalable web applications</b>, integrate <b>AI-powered systems</b>,<br/>
-and deliver clean, production-ready solutions.
+I build <b>scalable web applications</b>, integrate <b>AI-powered automation</b>,<br/>
+and deliver clean, production-ready systems.
 </p>
 
 ---
 
-## 🧠 What I Focus On
+## 🧠 What I Do
 
-### 🌐 Web (Primary)
+### 🌐 Web Engineering (Primary)
 - Modern web apps with **Next.js / React**
-- Clean architecture, performance & SEO
-- Dashboards, admin panels, SaaS frontends
-- API-driven systems
+- SEO-friendly, high-performance architectures
+- Admin panels, dashboards, SaaS frontends
+- API-first & scalable systems
 
 ### 🤖 AI & Automation
-- AI agents for analysis, content & workflows
-- Automation systems that reduce manual work
+- AI-powered tools & agents
+- Workflow automation that removes manual work
 - AI integrations via APIs (OpenAI, custom logic)
 
 ### 📱 Mobile (Secondary)
-- Flutter apps with shared logic & clean state
+- Flutter apps supporting web platforms
+- Shared logic & clean state management
 - Web-first products with mobile extensions
 
-> I focus on **systems that scale**, not one-off demos.
+> I focus on **real systems**, not demo projects.
 
 ---
 
-## 🛠️ Core Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
@@ -49,28 +50,27 @@ and deliver clean, production-ready solutions.
 
 ## 🚀 What I Build
 
-- 🌍 Web platforms & dashboards
-- 🤖 AI-powered web tools
+- 🌍 Web platforms & internal tools
+- 🤖 AI-powered web applications
 - ⚙️ Automation-heavy backend systems
-- 📱 Mobile companions for web products
+- 📱 Companion mobile apps for web products
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Overview
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=0merbakir&show_icons=true&theme=dark&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0merbakir&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0merbakir&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
-## 🧭 Current Direction
+## 🧭 Current Focus
 
 ```json
 {
   "primary": "Web Development",
-  "secondary": ["AI Automation", "Mobile Apps"],
+  "secondary": ["AI Automation", "Mobile (Flutter)"],
   "goal": "Build high-impact, scalable products",
   "status": "Open to serious collaborations"
 }
