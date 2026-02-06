@@ -1,140 +1,67 @@
-<!-- ======================= -->
-<!-- 🚀 FUTURISTIC HEADER -->
-<!-- ======================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api
-    ?type=waving
-    &height=190
-    &text=Ömer%20Bakır
-    &fontSize=55
-    &fontColor=ffffff
-    &color=0:000000,100:020024" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2540,100:38bdf8&height=180&section=header&text=Ömer%20Bakır&fontSize=58&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com
-  ?font=Orbitron
-  &size=26
-  &pause=1200
-  &color=00E5FF
-  &center=true
-  &vCenter=true
-  &width=700
-  &lines=Web+Engineering+First;AI+Automation+Driven;Mobile+as+an+Extension;Building+Systems+That+Scale" />
-</p>
+<h3 align="center">
+Web Engineer · AI Automation · Mobile (Flutter)
+</h3>
 
 <p align="center">
-  <b>🌐 Web Engineer</b> · <b>🤖 AI Automation</b> · <b>📱 Mobile (Flutter)</b>
-</p>
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-<!-- ======================= -->
-<!-- 🧠 ABOUT -->
-<!-- ======================= -->
-
-## 🧠 SYSTEM PHILOSOPHY
-
-I design and build **web-first systems** focused on:
-
-- ⚡ Performance  
-- 🧩 Scalability  
-- 🤖 Automation  
-
-I don’t chase hype.  
-I build **clean architectures** that survive production.
-
----
-
-<!-- ======================= -->
-<!-- 🌐 WEB -->
-<!-- ======================= -->
-
-## 🌐 WEB ENGINEERING (CORE)
-
-- ⚙️ Next.js / React based applications  
-- 🚀 SEO-friendly & high-performance setups  
-- 📊 Dashboards, SaaS platforms, internal tools  
-- 🔌 API-first & modular architectures  
-
-> Web is the backbone.  
-> Everything else connects to it.
-
----
-
-<!-- ======================= -->
-<!-- 🤖 AI -->
-<!-- ======================= -->
-
-## 🤖 AI & AUTOMATION
-
-- AI-powered web tools  
-- Workflow automation pipelines  
-- Intelligent agents & integrations  
-- OpenAI-based & custom AI logic  
-
-> If a task is repetitive, it should not be human.
-
----
-
-<!-- ======================= -->
-<!-- 📱 MOBILE -->
-<!-- ======================= -->
-
-## 📱 MOBILE EXTENSIONS
-
-- Flutter apps supporting web products  
-- Shared logic & clean architecture  
-- Web-first systems with mobile reach  
-
-> Mobile is not separate.  
-> It’s an extension.
-
----
-
-<!-- ======================= -->
-<!-- 🛠️ STACK -->
-<!-- ======================= -->
-
-## 🛠️ TECH STACK
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/AI%20Automation-000000?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter" />
+I build <b>scalable web applications</b>, integrate <b>AI-powered automation</b>,<br/>
+and ship clean, production-ready systems.
 </p>
 
 ---
 
-<!-- ======================= -->
-<!-- 🚀 BUILD -->
-<!-- ======================= -->
+## 🧠 What I Do
 
-## 🚀 WHAT I BUILD
+### 🌐 Web Engineering (Primary)
+- Next.js / React web applications  
+- Performance-focused, SEO-friendly architectures  
+- Dashboards, SaaS frontends, internal tools  
+- API-driven systems  
 
-- 🌍 Scalable web platforms  
+### 🤖 AI & Automation
+- AI-powered web tools & agents  
+- Workflow automation to reduce manual work  
+- OpenAI & custom AI integrations  
+
+### 📱 Mobile (Secondary)
+- Flutter apps supporting web platforms  
+- Clean architecture & shared logic  
+
+> Less noise. More impact.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/AI%20Automation-black?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter" />
+</p>
+
+---
+
+## 🚀 What I Build
+
+- 🌍 Web platforms & SaaS products  
 - 🤖 AI-powered web applications  
 - ⚙️ Automation-first backend systems  
 - 📱 Companion mobile apps  
 
 ---
 
-<!-- ======================= -->
-<!-- 🧭 STATUS -->
-<!-- ======================= -->
-
-## 🧭 CURRENT MODE
+## 🧭 Current Focus
 
 ```json
 {
-  "primary_focus": "Web Engineering",
+  "primary": "Web Engineering",
   "secondary": ["AI Automation", "Mobile (Flutter)"],
-  "principles": ["Clean", "Scalable", "Useful"],
+  "mindset": "Clean, scalable, useful",
   "status": "Open to high-impact collaborations"
 }
