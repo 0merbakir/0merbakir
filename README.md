@@ -1,70 +1,76 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:9d4edd&height=180&section=header&text=Ömer%20Bakır&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:9d4edd&height=180&section=header&text=Ömer%20Bakır&fontSize=58&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">
-Flutter Engineer · AI Automation Architect · Indie Builder
+Web Engineer · AI Automation · Mobile (Flutter)
 </h3>
 
 <p align="center">
-I design and build <b>high-performance mobile apps</b> and <b>AI-powered automation systems</b><br/>
-that eliminate repetitive work and scale products fast.
+I build <b>scalable web applications</b>, integrate <b>AI-powered systems</b>,<br/>
+and deliver clean, production-ready solutions.
 </p>
 
 ---
 
-## 🧠 What I Actually Do
+## 🧠 What I Focus On
 
-- 📱 **Flutter** → production-grade mobile apps (clean architecture, performance-first)
-- 🤖 **AI Automation** → AI agents, workflow automation, smart assistants
-- 🌐 **Web** → Next.js dashboards & backends for AI-powered products
-- ⚙️ **Systems** → APIs, integrations, automation pipelines
+### 🌐 Web (Primary)
+- Modern web apps with **Next.js / React**
+- Clean architecture, performance & SEO
+- Dashboards, admin panels, SaaS frontends
+- API-driven systems
 
-> I don’t build demos.  
-> I build **things people actually use.**
+### 🤖 AI & Automation
+- AI agents for analysis, content & workflows
+- Automation systems that reduce manual work
+- AI integrations via APIs (OpenAI, custom logic)
+
+### 📱 Mobile (Secondary)
+- Flutter apps with shared logic & clean state
+- Web-first products with mobile extensions
+
+> I focus on **systems that scale**, not one-off demos.
 
 ---
 
-## ⚙️ Tech Stack (Focused, Not Noisy)
+## 🛠️ Core Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/AI%20Automation-000000?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter" />
 </p>
 
 ---
 
-## 🚀 Selected Work
+## 🚀 What I Build
 
-### 🔮 AI Automation Systems
-- AI agents that automate content, analysis, and decision flows
-- Workflow automations replacing manual operations
-- API-based intelligent assistants
-
-### 📱 Mobile Applications
-- Flutter apps with clean architecture
-- Fast UI, smooth UX, scalable state management
-- Indie & startup-focused builds
+- 🌍 Web platforms & dashboards
+- 🤖 AI-powered web tools
+- ⚙️ Automation-heavy backend systems
+- 📱 Mobile companions for web products
 
 ---
 
-## 📊 GitHub Signals
+## 📊 GitHub Activity
 
 <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=0merbakir&show_icons=true&theme=transparent&hide_border=true" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0merbakir&layout=compact&theme=transparent&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=0merbakir&show_icons=true&theme=dark&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0merbakir&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## 🧭 Current Focus
+## 🧭 Current Direction
 
 ```json
 {
-  "building": ["Flutter Apps", "AI Agents", "Automation Systems"],
-  "mindset": "Minimal. Scalable. Useful.",
-  "availability": "Open to high-impact collaborations"
+  "primary": "Web Development",
+  "secondary": ["AI Automation", "Mobile Apps"],
+  "goal": "Build high-impact, scalable products",
+  "status": "Open to serious collaborations"
 }
