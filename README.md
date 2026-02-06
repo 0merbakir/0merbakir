@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0merbkair&label=Profile%20Views&color=38bdf8&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=0merbkair&label=Profile%20Views&color=38bdf8&style=flat" />
 </p>
 
 <h3 align="center">
@@ -25,28 +25,20 @@ and ship <b>clean, production-ready systems</b>.
 
 ### 🌐 Web Engineering
 - Next.js / React applications  
-- SEO-first & performance-driven builds  
+- SEO-first, performance-driven systems  
 - SaaS dashboards & internal tools  
-- API-centric architecture  
 
 </td>
 <td width="50%">
 
 ### 🤖 AI & Automation
 - AI-powered web tools & agents  
-- Workflow automation with real business impact  
-- OpenAI & custom model integrations  
+- Workflow automation with real impact  
+- OpenAI & custom integrations  
 
 </td>
 </tr>
 </table>
-
----
-
-## 📱 Mobile Development
-- Flutter apps supporting web platforms  
-- Clean architecture & shared logic  
-- Companion apps for SaaS products  
 
 ---
 
@@ -57,7 +49,6 @@ and ship <b>clean, production-ready systems</b>.
   <img src="https://img.shields.io/badge/React-0a2540?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-0a2540?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-0a2540?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/AI%20Automation-0a2540?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-0a2540?style=for-the-badge&logo=flutter&logoColor=02569B" />
 </p>
 
@@ -66,12 +57,13 @@ and ship <b>clean, production-ready systems</b>.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=0merbkair&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=0merbkair&theme=tokyonight&hide_border=true" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=0merbkair&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0merbkair&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=0merbkair&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -85,4 +77,3 @@ and ship <b>clean, production-ready systems</b>.
   "mindset": "Clean. Scalable. Useful.",
   "availability": "Open to high-impact collaborations"
 }
-
